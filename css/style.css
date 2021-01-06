@@ -39,6 +39,12 @@ header li a:hover{
     float:right;
     padding:20px 30px;
 }
+.profile .overview{
+    float:left;
+}
+.profile .pro-img{
+    float:right;
+}
 /* over view section 1 start here  */
 .overview{
     margin-left: 9%;
@@ -78,6 +84,7 @@ header li a:hover{
 /* over view section 1 end here  */
 
 /* about section 2 start here  */
+
 .about img{
     width:400px;
     margin-top:18%;
